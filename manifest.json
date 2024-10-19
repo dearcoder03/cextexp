@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Clipboard Copy Extension",
+    "version": "1.0",
+    "description": "Click buttons to copy text to clipboard.",
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "permissions": ["clipboardWrite"]
+  }
+  
